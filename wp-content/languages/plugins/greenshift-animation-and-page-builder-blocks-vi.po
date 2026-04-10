@@ -1,0 +1,1455 @@
+# Translation of Plugins - Greenshift &#8211; animation and page builder blocks - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - Greenshift &#8211; animation and page builder blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-03-27 16:30:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Greenshift &#8211; animation and page builder blocks - Stable (latest release)\n"
+
+#: includes/abilities.php:302
+msgid "Adds or updates GreenShift plugin variables used in the Stylebook Global Variables panel."
+msgstr "Thêm hoặc cập nhật các biến plugin GreenShift được dùng trong bảng Biến Toàn cục của Stylebook."
+
+#: includes/abilities.php:301
+msgid "Add Plugin Variables"
+msgstr "Thêm biến plugin"
+
+#: includes/abilities.php:281
+msgid "Retrieves GreenShift plugin variables used in the Stylebook Global Variables panel."
+msgstr "Lấy các biến plugin GreenShift được dùng trong bảng Biến Toàn cục của Stylebook."
+
+#: includes/abilities.php:280
+msgid "Get Plugin Variables"
+msgstr "Lấy biến plugin"
+
+#: includes/abilities.php:248
+msgid "Update Custom CSS"
+msgstr "Cập nhật CSS tùy chỉnh"
+
+#: includes/abilities.php:228
+msgid "Retrieves the GreenShift global custom CSS code."
+msgstr "Lấy mã CSS tùy chỉnh toàn cục của GreenShift."
+
+#: includes/abilities.php:227
+msgid "Get Custom CSS"
+msgstr "Lấy CSS tùy chỉnh"
+
+#: includes/abilities.php:59
+msgid "Update GreenShift Custom Colors"
+msgstr "Cập nhật màu tùy chỉnh GreenShift"
+
+#: includes/abilities.php:38
+msgid "Get GreenShift Custom Colors"
+msgstr "Lấy màu tùy chỉnh GreenShift"
+
+#: includes/abilities.php:25
+msgid "Design abilities provided by GreenShift – custom colors, element styles, classes, custom CSS, and plugin variables."
+msgstr "Các khả năng thiết kế do GreenShift cung cấp – màu tùy chỉnh, kiểu thành phần, class, CSS tùy chỉnh và các biến plugin."
+
+#: includes/abilities.php:249
+msgid "Updates the GreenShift global custom CSS code."
+msgstr "Cập nhật mã CSS tùy chỉnh toàn cục của GreenShift."
+
+#: includes/abilities.php:166
+msgid "Adds or updates GreenShift global custom CSS classes."
+msgstr "Thêm hoặc cập nhật các class CSS tùy chỉnh toàn cục của GreenShift."
+
+#: includes/abilities.php:165
+msgid "Add Custom Classes"
+msgstr "Thêm class tùy chỉnh"
+
+#: includes/abilities.php:145
+msgid "Retrieves the GreenShift global custom CSS classes."
+msgstr "Lấy các class CSS tùy chỉnh toàn cục của GreenShift."
+
+#: includes/abilities.php:144
+msgid "Get Custom Classes"
+msgstr "Lấy các class tùy chỉnh"
+
+#: includes/abilities.php:113
+msgid "Replaces the GreenShift global element style definitions."
+msgstr "Thay thế các định nghĩa kiểu thành phần toàn cục của GreenShift."
+
+#: includes/abilities.php:112
+msgid "Update Element Styles"
+msgstr "Cập nhật kiểu thành phần"
+
+#: includes/abilities.php:92
+msgid "Retrieves the GreenShift global element style definitions."
+msgstr "Lấy các định nghĩa kiểu thành phần toàn cục của GreenShift."
+
+#: includes/abilities.php:91
+msgid "Get Element Styles"
+msgstr "Lấy kiểu thành phần"
+
+#: includes/abilities.php:60
+msgid "Merges new colors into the GreenShift global custom color palette."
+msgstr "Trộn các màu mới vào bảng màu tùy chỉnh toàn cục của GreenShift."
+
+#: includes/abilities.php:39
+msgid "Retrieves the GreenShift global custom color palette."
+msgstr "Lấy bảng màu tùy chỉnh toàn cục của GreenShift."
+
+#: includes/abilities.php:24
+msgid "GreenShift"
+msgstr "GreenShift"
+
+#: templates/admin/import-page.php:456
+msgid "Invalid JSON file."
+msgstr "Tệp JSON không hợp lệ."
+
+#: templates/admin/import-page.php:449
+msgid "Invalid file upload."
+msgstr "Tải lên tệp không hợp lệ."
+
+#: init.php:2595
+msgid "Insufficient permissions. Only administrators are allowed."
+msgstr "Không đủ quyền hạn. Chỉ quản trị viên mới được phép."
+
+#: settings.php:1034
+msgid "Secret key is used for server-side verification"
+msgstr "Mã bí mật (Secret key) được dùng để xác thực phía máy chủ"
+
+#: settings.php:1030
+msgid "Cloudflare Turnstile Secret Key"
+msgstr "Mã bí mật(Secret Key) Cloudflare Turnstile"
+
+#: settings.php:1025
+msgid "Get Turnstile Keys"
+msgstr "Lấy khóa Turnstile"
+
+#: settings.php:1021
+msgid "Cloudflare Turnstile Site Key"
+msgstr "Mã trang (Site key) Cloudflare Turnstile"
+
+#. translators: 1: Blog name
+#: blockrender/element/block.php:1101
+msgid "New Contact Form Submission from %s"
+msgstr "Có đơn đăng ký mới từ %s"
+
+#: blockrender/element/block.php:1082
+msgid "Message is required"
+msgstr "Tin nhắn là bắt buộc."
+
+#: blockrender/element/block.php:1078
+msgid "Valid email is required"
+msgstr "E-Mail hợp lệ là bắt buộc"
+
+#: blockrender/element/block.php:1074
+msgid "Name is required"
+msgstr "Tên là bắt buộc"
+
+#: blockrender/element/block.php:984
+msgid "Security check failed"
+msgstr "Kiểm tra bảo mật thất bại"
+
+#: templates/admin/addon-page.php:571
+msgid "Convert any webpage or HTML design to Greenshift blocks."
+msgstr "Chuyển đổi bất kỳ trang web hoặc thiết kế HTML nào thành block Greenshift."
+
+#: templates/admin/addon-page.php:567
+msgid "Web page to Blocks"
+msgstr "Trang web thành Block"
+
+#: templates/admin/addon-page.php:552 templates/admin/addon-page.php:577
+msgid "Upgrade to Access"
+msgstr "Nâng cấp để truy cập"
+
+#: templates/admin/addon-page.php:550 templates/admin/addon-page.php:575
+msgid "Download Tool"
+msgstr "Tải công cụ"
+
+#: templates/admin/addon-page.php:546
+msgid "Convert your Figma designs to Greenshift WordPress blocks in one click."
+msgstr "Chuyển đổi thiết kế Figma thành block WordPress Greenshift chỉ với một cú nhấp chuột."
+
+#: templates/admin/addon-page.php:542
+msgid "Figma Converter"
+msgstr "Bộ chuyển đổi Figma"
+
+#: templates/admin/addon-page.php:539 templates/admin/addon-page.php:564
+msgid "Upgrade Required"
+msgstr "Yêu cầu nâng cấp"
+
+#: templates/admin/addon-page.php:537 templates/admin/addon-page.php:562
+msgid "Available"
+msgstr "Có sẵn"
+
+#: templates/admin/addon-page.php:530
+msgid "Additional tools and converters to enhance your workflow"
+msgstr "Các công cụ và bộ chuyển đổi bổ sung để tăng cường quy trình làm việc"
+
+#: templates/admin/addon-page.php:505
+msgid "Use Woocommerce FSE blocks to build fast eshops"
+msgstr "Sử dụng các block Woocommerce FSE để xây dựng cửa hàng trực tuyến tốc độ cao"
+
+#: templates/admin/addon-page.php:501
+msgid "Woocommerce addon"
+msgstr "Tiện ích mở rộng Woocommerce"
+
+#: templates/admin/addon-page.php:471
+msgid "Do you want to improve visual hierarchy and presentation in your content"
+msgstr "Bạn có muốn cải thiện phân cấp thị giác và cách trình bày nội dung không?"
+
+#: templates/admin/addon-page.php:467
+msgid "Chart Addon"
+msgstr "Tiện ích biểu đồ"
+
+#: templates/admin/addon-page.php:437
+msgid "Special mobile and seo optimized blocks which can help to earn money"
+msgstr "Các block đặc biệt tối ưu cho di động và SEO giúp hỗ trợ kiếm tiền"
+
+#: templates/admin/addon-page.php:433
+msgid "Seo and Marketing Addon"
+msgstr "Tiện ích SEO và Marketing"
+
+#: templates/admin/addon-page.php:405
+msgid "Custom templates, dynamic content, listings, grid, taxonomy blocks"
+msgstr "Template tùy chỉnh, nội dung động, danh sách, lưới, block phân loại (taxonomy)"
+
+#: templates/admin/addon-page.php:401
+msgid "Query and Dynamic"
+msgstr "Truy vấn và Nội dung động"
+
+#: templates/admin/addon-page.php:374 templates/admin/addon-page.php:406
+#: templates/admin/addon-page.php:438 templates/admin/addon-page.php:472
+#: templates/admin/addon-page.php:506
+msgid "Details and Demo"
+msgstr "Chi tiết và Bản mẫu"
+
+#: templates/admin/addon-page.php:373
+msgid "Add motion and animations like on top awwarded sites"
+msgstr "Thêm chuyển động và hiệu ứng như các trang web đạt giải thưởng hàng đầu"
+
+#: templates/admin/addon-page.php:369
+msgid "Advanced Animations"
+msgstr "Hiệu ứng nâng cao"
+
+#: templates/admin/addon-page.php:365 templates/admin/addon-page.php:399
+#: templates/admin/addon-page.php:431 templates/admin/addon-page.php:465
+#: templates/admin/addon-page.php:497
+msgid "Not Installed"
+msgstr "Chưa cài đặt"
+
+#: templates/admin/addon-page.php:363 templates/admin/addon-page.php:397
+#: templates/admin/addon-page.php:429 templates/admin/addon-page.php:463
+#: templates/admin/addon-page.php:495
+msgid "Installed"
+msgstr "Đã cài đặt"
+
+#: templates/admin/addon-page.php:360 templates/admin/addon-page.php:394
+#: templates/admin/addon-page.php:426 templates/admin/addon-page.php:460
+#: templates/admin/addon-page.php:492
+msgid "License is not Active"
+msgstr "Bản quyền chưa kích hoạt"
+
+#: templates/admin/addon-page.php:358 templates/admin/addon-page.php:392
+#: templates/admin/addon-page.php:424 templates/admin/addon-page.php:458
+#: templates/admin/addon-page.php:490
+msgid "License is Active"
+msgstr "Bản quyền đã kích hoạt"
+
+#: settings.php:1338
+msgid "Remove API Links (api.w.org, rsd)"
+msgstr "Xóa các liên kết API (api.w.org, rsd)"
+
+#: settings.php:1332
+msgid "Remove RSS/XML Links"
+msgstr "Xóa liên kết RSS/XML"
+
+#: settings.php:1326
+msgid "Remove wp-block-library CSS"
+msgstr "Xóa CSS của wp-block-library"
+
+#: settings.php:1320
+msgid "Remove Generator and Other Meta Tags"
+msgstr "Xóa thẻ Generator và các thẻ Meta khác"
+
+#: settings.php:1314
+msgid "Remove Skip to Content Link and Script"
+msgstr "Xóa liên kết \"Skip to Content\" và script"
+
+#: settings.php:1308
+msgid "Remove Emoji Scripts and Styles"
+msgstr "Xóa script và style của Emoji"
+
+#: settings.php:1304
+msgid "Remove WordPress Elements"
+msgstr "Xóa các thành phần WordPress"
+
+#: settings.php:1297
+msgid "Enable Meta Description"
+msgstr "Bật mô tả Meta"
+
+#: templates/admin/block-manager-page.php:487
+msgid "Save Settings"
+msgstr "Lưu cài đặt"
+
+#: templates/admin/block-manager-page.php:458
+msgid "Disable Element Variations"
+msgstr "Vô hiệu hóa các biến thể thành phần"
+
+#: templates/admin/block-manager-page.php:436
+#: templates/admin/block-manager-page.php:464
+msgid "Deselect All"
+msgstr "Bỏ chọn tất cả"
+
+#: templates/admin/block-manager-page.php:433
+#: templates/admin/block-manager-page.php:461
+msgid "Select All"
+msgstr "Chọn tất cả"
+
+#: templates/admin/block-manager-page.php:430
+msgid "Disable Blocks"
+msgstr "Vô hiệu hóa block"
+
+#: templates/admin/block-manager-page.php:422
+msgid "Enable simplified interface panels for this user role"
+msgstr "Bật bảng giao diện đơn giản hóa cho vai trò người dùng này"
+
+#: templates/admin/block-manager-page.php:421
+msgid "Enable simplified interface panels"
+msgstr "Bật bảng giao diện đơn giản hóa"
+
+#: templates/admin/block-manager-page.php:413
+msgid "Simplified Panels"
+msgstr "Bảng đơn giản hóa"
+
+#: templates/admin/block-manager-page.php:398
+msgid "Use this page to control which blocks and variations are available to different user roles in the block inserter. Simplified panel option allows you to hide the block manager panel for non editor user roles and lock position of blocks."
+msgstr "Sử dụng trang này để kiểm soát các block và biến thể khả dụng cho các vai trò người dùng khác nhau. Tùy chọn bảng đơn giản hóa cho phép bạn ẩn bảng quản lý block đối với các vai trò không phải biên tập viên và khóa vị trí của các block."
+
+#: templates/admin/block-manager-page.php:170
+msgid "Block manager settings saved successfully!"
+msgstr "Đã lưu cài đặt quản lý block thành công!"
+
+#: settings.php:292 settings.php:293 templates/admin/block-manager-page.php:387
+#: templates/admin/navleft.php:77
+msgid "Block Manager"
+msgstr "Quản lý Block"
+
+#: settings.php:732
+msgid "Dark Mode for Editor page"
+msgstr "Chế độ tối cho trang trình soạn thảo"
+
+#: settings.php:534
+msgid "API Keys & AI"
+msgstr "Khóa API & AI"
+
+#: settings.php:528
+msgid "Fonts"
+msgstr "Font chữ"
+
+#: settings.php:1112
+msgid "AI Image Model"
+msgstr "Mô hình hình ảnh AI"
+
+#: settings.php:1093
+msgid "AI General Model"
+msgstr "Mô hình AI tổng quát"
+
+#: settings.php:1075
+msgid "Select Model for Smart Code AI Block"
+msgstr "Chọn mô hình cho Block AI Smart Code"
+
+#: settings.php:1066
+msgid "Gemini API Key"
+msgstr "Khóa API Gemini"
+
+#: settings.php:613
+msgid "On-Fly Inline Merged CSS (Beta, works only in block themes)"
+msgstr "CSS hợp nhất nội tuyến On-Fly (Beta, chỉ hoạt động trong các chủ đề khối)"
+
+#: settings.php:1057
+msgid "Deepseek API Key"
+msgstr "API Key Deepseek"
+
+#: settings.php:1048
+msgid "Claude API Key"
+msgstr "API Key Claude"
+
+#: templates/admin/welcome-page.php:1029
+msgid "GreenShift blocks first"
+msgstr "Ưu tiên các khối GreenShift"
+
+#: templates/admin/welcome-page.php:1028
+msgid "Both, Beginner first"
+msgstr "Cả hai, ưu tiên cho người mới bắt đầu"
+
+#: templates/admin/welcome-page.php:1021
+msgid "GreenLight Elements first"
+msgstr "Ưu tiên GreenLight Elements"
+
+#: templates/admin/welcome-page.php:1020
+msgid "Both, Professional first"
+msgstr "Cả hai, ưu tiên cho chuyên gia"
+
+#: templates/admin/welcome-page.php:1013
+msgid "GreenLight Element blocks"
+msgstr "Các khối phần tử GreenLight"
+
+#: templates/admin/welcome-page.php:1012
+msgid "Professional Blocks"
+msgstr "Các khối chuyên nghiệp"
+
+#: templates/admin/welcome-page.php:1005
+msgid "GreenShift Blocks with visual helpers"
+msgstr "Các khối GreenShift với hỗ trợ trực quan"
+
+#: templates/admin/welcome-page.php:1004
+msgid "Beginner Blocks"
+msgstr "Các khối dành cho người mới bắt đầu"
+
+#: templates/admin/welcome-page.php:992
+msgid "Choose your Content blocks"
+msgstr "Chọn các khối nội dung của bạn"
+
+#: templates/admin/welcome-page.php:980
+msgid "Learning Center"
+msgstr "Trung tâm học tập"
+
+#: templates/admin/welcome-page.php:974
+msgid "Page Builder"
+msgstr "Trình tạo trang"
+
+#: templates/admin/welcome-page.php:964
+msgid "Welcome to "
+msgstr "Chào mừng bạn đến với "
+
+#: settings.php:159 settings.php:177
+msgid "GreenShift Extra Blocks"
+msgstr "Các khối mở rộng của GreenShift"
+
+#: settings.php:155 settings.php:173
+msgid "GreenShift Content Blocks"
+msgstr "Các khối nội dung của GreenShift"
+
+#: settings.php:151 settings.php:169
+msgid "GreenShift Layout Blocks"
+msgstr "Các khối bố cục của GreenShift"
+
+#: settings.php:147 settings.php:193
+msgid "GreenLight Tags Elements"
+msgstr "Các thành phần thẻ của GreenLight"
+
+#: settings.php:143 settings.php:189
+msgid "GreenLight Extra Elements"
+msgstr "Các thành phần mở rộng của GreenLight"
+
+#: settings.php:139 settings.php:185
+msgid "GreenLight Content Elements"
+msgstr "Các thành phần nội dung của GreenLight"
+
+#: settings.php:135 settings.php:181
+msgid "GreenLight Layout Elements"
+msgstr "Các thành phần bố cục của GreenLight"
+
+#: edd/EddLicensePage.php:454
+msgid "An error occurred, we can not connect with License server, please contact with support"
+msgstr "Đã xảy ra lỗi, chúng tôi không thể kết nối với máy chủ cấp phép, vui lòng liên hệ bộ phận hỗ trợ"
+
+#: settings.php:744
+msgid "Show only Greenshift blocks"
+msgstr "Chỉ hiển thị các khối Greenshift"
+
+#: settings.php:743
+msgid "Show only GreenLight Element blocks"
+msgstr "Chỉ hiển thị các khối GreenLight Element"
+
+#: settings.php:742
+msgid "Show both, priority on GreenLight Element blocks"
+msgstr "Hiển thị cả hai, ưu tiên các khối GreenLight Element"
+
+#: settings.php:741
+msgid "Show both, priority on regular Greenshift blocks"
+msgstr "Hiển thị cả hai, ưu tiên các khối Greenshift thông thường"
+
+#: settings.php:738
+msgid "Priority for GreenLight Element Blocks in Inserter"
+msgstr "Ưu tiên các khối GreenLight Element trong trình chèn"
+
+#: includes/helper.php:612
+msgid "Hover Presets"
+msgstr "Cài đặt sẵn khi di chuột"
+
+#: includes/helper.php:495
+msgid "Perspective Presets"
+msgstr "Cài đặt sẵn cho góc nhìn"
+
+#: includes/helper.php:899
+msgid "Opacity Presets"
+msgstr "Cài đặt sẵn Độ mờ"
+
+#: templates/admin/addon-page.php:525 templates/admin/addon-page.php:544
+#: templates/admin/addon-page.php:569 build/gspbSiteEditor.js:1
+#: build/gspbStylebook.js:1
+msgid "Extra"
+msgstr "Thêm"
+
+#: blockrender/video/block.json
+msgctxt "block title"
+msgid "Video"
+msgstr "Video"
+
+#: blockrender/toggler/block.json
+msgctxt "block title"
+msgid "Toggler"
+msgstr "Công tắc"
+
+#: blockrender/toc/block.json
+msgctxt "block title"
+msgid "Table of Content"
+msgstr "Mục lục"
+
+#: blockrender/titlebox/block.json
+msgctxt "block title"
+msgid "Title Box"
+msgstr "Hộp tiêu đề"
+
+#: blockrender/text/block.json
+msgctxt "block title"
+msgid "Advanced text"
+msgstr "Văn bản nâng cao"
+
+#: blockrender/tabs/block.json
+msgctxt "block title"
+msgid "Tabs"
+msgstr "Tab"
+
+#: blockrender/tab/block.json
+msgctxt "block title"
+msgid "Tab"
+msgstr "Thẻ"
+
+#: blockrender/switcher/block.json
+msgctxt "block title"
+msgid "Switcher"
+msgstr "Công tắc chuyển đổi"
+
+#: blockrender/swiper/block.json
+msgctxt "block title"
+msgid "Slider"
+msgstr "Thanh trượt"
+
+#: blockrender/swipe/block.json
+msgctxt "block title"
+msgid "Slide"
+msgstr "Slide"
+
+#: blockrender/svg-shape/block.json
+msgctxt "block title"
+msgid "Shape Divider"
+msgstr "Bộ phân cách hình dạng"
+
+#: blockrender/spline3d/block.json
+msgctxt "block title"
+msgid "Spline 3d Loader"
+msgstr "Bộ tải Spline 3d"
+
+#: blockrender/social-share/block.json
+msgctxt "block description"
+msgid "Social Share buttons"
+msgstr "Nút chia sẻ trên mạng xã hội"
+
+#: blockrender/social-share/block.json
+msgctxt "block title"
+msgid "Social Share"
+msgstr "Chia sẻ trên mạng xã hội"
+
+#: blockrender/row/block.json
+msgctxt "block title"
+msgid "Row"
+msgstr "Hàng"
+
+#: blockrender/progressbar/block.json
+msgctxt "block title"
+msgid "Progress Bar"
+msgstr "Thanh tiến trình"
+
+#: blockrender/modelviewer/block.json
+msgctxt "block title"
+msgid "3D Model Viewer"
+msgstr "Trình xem mô hình 3D"
+
+#: blockrender/map/block.json
+msgctxt "block title"
+msgid "Map"
+msgstr "Bản đồ"
+
+#: blockrender/infobox/block.json
+msgctxt "block title"
+msgid "Infobox"
+msgstr "Hộp thông tin"
+
+#: blockrender/image/block.json
+msgctxt "block title"
+msgid "Image"
+msgstr "Hình ảnh"
+
+#: blockrender/iconList/block.json
+msgctxt "block title"
+msgid "Icon List"
+msgstr "Danh sách biểu tượng"
+
+#: blockrender/icon-box/block.json
+msgctxt "block title"
+msgid "Icon box"
+msgstr "Hộp biểu tượng"
+
+#: blockrender/heading/block.json
+msgctxt "block title"
+msgid "Heading"
+msgstr "Tiêu đề"
+
+#: blockrender/element/block.json
+msgctxt "block title"
+msgid "Advanced HTML Element"
+msgstr "Thành phần HTML nâng cao"
+
+#: blockrender/counter/block.json
+msgctxt "block title"
+msgid "Counter"
+msgstr "Bộ đếm"
+
+#: blockrender/countdown/block.json
+msgctxt "block title"
+msgid "Countdown"
+msgstr "Đếm ngược"
+
+#: blockrender/container/block.json
+msgctxt "block title"
+msgid "Container"
+msgstr "Chứa"
+
+#: blockrender/column/block.json
+msgctxt "block title"
+msgid "Column"
+msgstr "Cột"
+
+#: blockrender/button/block.json blockrender/buttonbox/block.json
+msgctxt "block title"
+msgid "Button"
+msgstr "Nút"
+
+#: blockrender/accordionitem/block.json
+msgctxt "block title"
+msgid "Accordion item"
+msgstr "Mục nội dung thu gọn"
+
+#: blockrender/accordion/block.json
+msgctxt "block title"
+msgid "Accordion"
+msgstr "Nội dung thu gọn"
+
+#: templates/admin/welcome-page.php:979
+msgid "Turn your regular design into a high-quality site with attractive animations, interactions, dynamic and marketing blocks in an FSE environment"
+msgstr "Biến thiết kế thông thường của bạn thành một trang web chất lượng cao với các hiệu ứng động, tương tác, khối động và tiếp thị hấp dẫn trong môi trường FSE"
+
+#: templates/admin/upgrade-page.php:300
+msgid "Congratulations, You have our Best available plan"
+msgstr "Chúc mừng bạn, bạn đã có kế hoạch tốt nhất của chúng tôi"
+
+#: templates/admin/upgrade-page.php:297
+msgid "All in ONE Lifetime - Active"
+msgstr "Tất cả trong ONE Lifetime - Hoạt động"
+
+#: templates/admin/settings_general_form.php:37
+msgid "Add New Font"
+msgstr "Thêm phông chữ mới"
+
+#: templates/admin/settings_general_font_item.php:78
+msgid "Remove Font"
+msgstr "Xóa phông chữ"
+
+#: templates/admin/settings_general_font_item.php:70
+msgid "Use only for fonts which are attached to global elements"
+msgstr "Chỉ sử dụng cho các phông chữ được đính kèm với các yếu tố toàn cầu"
+
+#: templates/admin/settings_general_font_item.php:64
+msgid "Font Preloaded"
+msgstr "Phông chữ được tải trước"
+
+#: templates/admin/settings_general_font_item.php:54 build/gspbSiteEditor.js:1
+#: build/gspbStylebook.js:1
+msgid "Remove"
+msgstr "Xóa"
+
+#: templates/admin/settings_general_font_item.php:49
+msgid "Current file"
+msgstr "Tệp hiện tại"
+
+#. translators: 1: extension of file
+#: templates/admin/settings_general_font_item.php:44
+msgid "Upload .%s font file"
+msgstr "Tải lên tệp phông chữ .%s"
+
+#: templates/admin/settings_general_font_item.php:35
+msgid "Font file"
+msgstr "Tệp phông chữ"
+
+#: templates/admin/settings_general_font_item.php:27
+msgid "Make sure that name has only Latin symbols without numbers and special characters"
+msgstr "Hãy chắc chắn rằng tên chỉ có ký hiệu Latin mà không có số và ký tự đặc biệt"
+
+#: templates/admin/settings_general_font_item.php:21
+msgid "Font Family Name"
+msgstr "Tên họ phông chữ"
+
+#: templates/admin/settings_general_font_item.php:13
+msgid "Font"
+msgstr "Phông chữ"
+
+#: templates/admin/navleft.php:114
+msgid "Support/Contact Us"
+msgstr "Hỗ trợ/Liên hệ với chúng tôi"
+
+#: templates/admin/navleft.php:94
+msgid "Demo Site Import"
+msgstr "Nhập trang web demo"
+
+#: templates/admin/navleft.php:83
+msgid "License Manager"
+msgstr "Trình quản lý giấy phép"
+
+#: templates/admin/navleft.php:74
+msgid "Global Settings"
+msgstr "Cài đặt toàn cầu"
+
+#: templates/admin/navleft.php:66
+msgid "Get Started"
+msgstr "Bắt đầu"
+
+#: templates/admin/navleft.php:57 build/gspbLibrary.js:1
+msgid "Upgrade Now"
+msgstr "Nâng cấp ngay"
+
+#: templates/admin/navleft.php:55
+msgid "Upgrade Plan"
+msgstr "Kế hoạch nâng cấp"
+
+#: templates/admin/navleft.php:47
+msgid "Free version"
+msgstr "Phiên bản miễn phí"
+
+#: templates/admin/import-page.php:540
+msgid "Custom Default attributes"
+msgstr "Thuộc tính Mặc định Tùy chỉnh"
+
+#: templates/admin/import-page.php:536
+msgid "Greenshift Site settings"
+msgstr "Cài đặt Trang web Greenshift"
+
+#: templates/admin/import-page.php:534
+msgid "Greenshift global styles"
+msgstr "Kiểu dáng toàn cầu Greenshift"
+
+#: templates/admin/import-page.php:532
+msgid "Greenshift typography"
+msgstr "Kiểu chữ Greenshift"
+
+#: templates/admin/import-page.php:530
+msgid "System Elements design"
+msgstr "Thiết kế Các yếu tố Hệ thống"
+
+#: templates/admin/import-page.php:528 build/gspbSiteEditor.js:1
+msgid "Global Classes"
+msgstr "Các lớp Toàn cầu"
+
+#: templates/admin/import-page.php:526
+msgid "Greenshift global colors"
+msgstr "Màu sắc toàn cầu Greenshift"
+
+#: templates/admin/import-page.php:524
+msgid "Local font styles"
+msgstr "Kiểu chữ cục bộ"
+
+#: templates/admin/import-page.php:522
+msgid "Local fonts"
+msgstr "Phông chữ cục bộ"
+
+#: templates/admin/import-page.php:520 build/gspbLibrary.js:1
+msgid "Presets"
+msgstr "Cài đặt sẵn"
+
+#: templates/admin/import-page.php:518
+msgid "Reusable Styles"
+msgstr "Kiểu dáng có thể tái sử dụng"
+
+#: templates/admin/import-page.php:516
+msgid "Localization"
+msgstr "Bản địa hóa"
+
+#: templates/admin/import-page.php:512
+msgid "Script Management"
+msgstr "Quản lý Kịch bản"
+
+#: templates/admin/import-page.php:484
+msgid "Click the button below to generate json file"
+msgstr "Nhấp vào nút bên dưới để tạo tệp json"
+
+#: templates/admin/import-page.php:483
+msgid "Export your Greenshift global settings"
+msgstr "Xuất cài đặt toàn cầu Greenshift của bạn"
+
+#: templates/admin/import-page.php:475
+msgid "Import Data"
+msgstr "Nhập Dữ liệu"
+
+#: templates/admin/import-page.php:464
+msgid "Data imported successfully from"
+msgstr "Dữ liệu đã được nhập thành công từ"
+
+#: templates/admin/import-page.php:441
+msgid "Please select a JSON file to import."
+msgstr "Vui lòng chọn tệp JSON để nhập."
+
+#: templates/admin/import-page.php:437
+msgid "Import your Greenshift global settings"
+msgstr "Nhập cài đặt toàn cầu Greenshift của bạn"
+
+#: templates/admin/import-page.php:419 templates/admin/import-page.php:556
+msgid "No reusable blocks found."
+msgstr "Không tìm thấy khối có thể tái sử dụng."
+
+#: templates/admin/import-page.php:372
+msgid "Export your reusable templates."
+msgstr "Xuất các mẫu có thể tái sử dụng của bạn."
+
+#: templates/admin/import-page.php:357
+msgid "Import your reusable templates."
+msgstr "Nhập các mẫu có thể tái sử dụng của bạn."
+
+#: templates/admin/import-page.php:349 templates/admin/import-page.php:430
+#: templates/admin/import-page.php:567
+msgid "You currently do not have any customized Templates, Template Parts, or Custom Styles saved in the WordPress database."
+msgstr "Hiện tại bạn không có Mẫu, Phần Mẫu hoặc Kiểu Tùy chỉnh nào được lưu trong cơ sở dữ liệu WordPress."
+
+#: templates/admin/import-page.php:344 templates/admin/import-page.php:350
+#: templates/admin/import-page.php:425 templates/admin/import-page.php:431
+#: templates/admin/import-page.php:562 templates/admin/import-page.php:568
+msgid "Download Export File"
+msgstr "Tải xuống tệp xuất"
+
+#: templates/admin/import-page.php:327
+msgid " (template part)"
+msgstr " (phần mẫu)"
+
+#: templates/admin/import-page.php:325
+msgid " (template)"
+msgstr " (mẫu)"
+
+#: templates/admin/import-page.php:319
+msgid "Unknown theme"
+msgstr "Chủ đề không xác định"
+
+#: templates/admin/import-page.php:314
+msgid " (active theme)"
+msgstr " (chủ đề đang hoạt động)"
+
+#: templates/admin/import-page.php:267 templates/admin/import-page.php:396
+#: templates/admin/import-page.php:501
+msgid "Select all"
+msgstr "Chọn tất cả"
+
+#: templates/admin/import-page.php:245 templates/admin/import-page.php:374
+#: templates/admin/import-page.php:485
+msgid "Once you&#8217;ve saved the download file, you can use the Import option in another site to import the design from this site."
+msgstr "Khi bạn đã lưu file tải về, bạn có thể sử dụng tuỳ chọn Nhập trên một trang web khác để nhập thiết kế từ trang web này."
+
+#: templates/admin/import-page.php:244 templates/admin/import-page.php:373
+msgid "Click the button below to generate XML file"
+msgstr "Nhấp vào nút bên dưới để tạo tệp XML"
+
+#: templates/admin/import-page.php:243
+msgid "Export your Full Site Editing design."
+msgstr "Xuất thiết kế Chỉnh sửa Trang web Toàn diện của bạn."
+
+#: templates/admin/import-page.php:228
+msgid "Import your FSE templates."
+msgstr "Nhập các mẫu FSE của bạn."
+
+#. translators: %1$s: opening <a> tag with themes.php admin link, %2$s: closing
+#. </a> tag
+#: templates/admin/import-page.php:176
+msgid "This site does not have Full Site Editing enabled. Please install and activate a %1$sblock theme%2$s. Recommended theme - %3$sGreenshift%2$s"
+msgstr "Trang web này không được bật Chỉnh sửa Trang web Toàn diện. Vui lòng cài đặt và kích hoạt một %1$schủ đề khối%2$s. Chủ đề được đề xuất - %3$sGreenshift%2$s"
+
+#: templates/admin/import-page.php:29
+msgid "Greenshift Global"
+msgstr "Toàn cầu Greenshift"
+
+#: templates/admin/import-page.php:27
+msgid "FSE Templates"
+msgstr "Mẫu FSE"
+
+#: templates/admin/import-demo.php:252
+msgid "Show details"
+msgstr "Hiển thị chi tiết"
+
+#: templates/admin/import-demo.php:246
+msgid "Import is in progress. Do not close this page until you get message about import results"
+msgstr "Nhập đang được tiến hành. Đừng đóng trang này cho đến khi bạn nhận được thông báo về kết quả nhập"
+
+#: templates/admin/import-demo.php:229
+msgid "Import Only FSE templates"
+msgstr "Chỉ nhập các mẫu FSE"
+
+#: templates/admin/import-demo.php:223
+msgid "Import Demo"
+msgstr "Nhập Demo"
+
+#: templates/admin/import-demo.php:214
+msgid "Query addon is required"
+msgstr "Phần mở rộng truy vấn là bắt buộc"
+
+#: templates/admin/import-demo.php:212
+msgid "Query addon is active."
+msgstr "Phần mở rộng truy vấn đang hoạt động."
+
+#: templates/admin/import-demo.php:209
+msgid "Woocommerce addon is required"
+msgstr "Phần mở rộng Woocommerce là bắt buộc"
+
+#: templates/admin/import-demo.php:207
+msgid "Woocommerce addon is active."
+msgstr "Phần mở rộng Woocommerce đang hoạt động."
+
+#: templates/admin/import-demo.php:203
+msgid "WooCommerce Full Site Editing Theme offers an unparalleled level of customization control.  So if you're ready to take your ecommerce business to the next level, consider using the WooCommerce Full Site Editing Theme as your starting point."
+msgstr "Giao diện chỉnh sửa toàn bộ trang web của WooCommerce mang đến mức độ kiểm soát tùy chỉnh chưa từng có. Vì vậy, nếu bạn đã sẵn sàng đưa doanh nghiệp thương mại điện tử của mình lên tầm cao mới, hãy xem xét sử dụng Giao diện chỉnh sửa toàn bộ trang web của WooCommerce làm điểm khởi đầu của bạn."
+
+#. translators: %1$s: opening <a> tag with themes.php admin link, %2$s: closing
+#. </a> tag
+#: templates/admin/import-demo.php:189
+msgid "Please install and activate a %1$sGreenshift theme%2$s to use demo sites."
+msgstr "Vui lòng cài đặt và kích hoạt một %1$sGiao diện Greenshift%2$s để sử dụng các trang web demo."
+
+#: templates/admin/import-demo.php:169 templates/admin/import-page.php:170
+msgid "Please ask your site administrator to enable import and export capabilities for your user account."
+msgstr "Vui lòng yêu cầu quản trị viên trang web của bạn bật chức năng nhập và xuất cho tài khoản người dùng của bạn."
+
+#: templates/admin/import-demo.php:162 templates/admin/import-page.php:189
+msgid "Before using the importer, it is recommended to save and back up your current design using the Export function."
+msgstr "Trước khi sử dụng trình nhập, nên lưu và sao lưu thiết kế hiện tại của bạn bằng chức năng Xuất."
+
+#: templates/admin/import-demo.php:21
+msgid "Import Demo Site"
+msgstr "Nhập trang web demo"
+
+#: templates/admin/contact-page.php:34
+msgid "Support Board - for buyers of premium addons"
+msgstr "Bảng hỗ trợ - dành cho người mua các phần mở rộng cao cấp"
+
+#: templates/admin/contact-page.php:31
+msgid "Ticket system on Wordpress.org"
+msgstr "Hệ thống vé trên WordPress.org"
+
+#: templates/admin/contact-page.php:27
+msgid "Private contact form"
+msgstr "Mẫu liên hệ riêng tư"
+
+#: templates/admin/contact-page.php:24
+msgid "Thank you for using Greenshift. For any bug report or questions, please, contact us:"
+msgstr "Cảm ơn bạn đã sử dụng Greenshift. Đối với bất kỳ báo cáo lỗi hoặc câu hỏi nào, vui lòng liên hệ với chúng tôi:"
+
+#: templates/admin/addon-page.php:381 templates/admin/addon-page.php:413
+#: templates/admin/addon-page.php:445 templates/admin/addon-page.php:479
+#: templates/admin/addon-page.php:513
+msgid "Buy Now"
+msgstr "Mua ngay"
+
+#: templates/admin/addon-page.php:350
+msgid "Here you can find your active addons. Each addon extends functionality of your site by additional blocks and features. You can buy them separately or as part of plans. After purchase, download zip files in your account and upload in Plugins - Add new"
+msgstr "Ở đây bạn có thể tìm thấy các phần mở rộng đang hoạt động của mình. Mỗi phần mở rộng mở rộng chức năng của trang web của bạn bằng các khối và tính năng bổ sung. Bạn có thể mua chúng riêng lẻ hoặc là một phần của các gói. Sau khi mua, tải xuống các tệp zip trong tài khoản của bạn và tải lên trong Plugin - Thêm mới"
+
+#: templates/admin/addon-page.php:21
+msgid "Your addons"
+msgstr "Phần mở rộng của bạn"
+
+#: settings.php:1572
+msgid "On view trigger:"
+msgstr "Khi xem:"
+
+#: settings.php:1571
+msgid "Click trigger:"
+msgstr "Khi nhấp:"
+
+#: settings.php:1570
+msgid "Hover trigger:"
+msgstr "Khi di chuột:"
+
+#: settings.php:1569
+msgid "Shortcode for Ajax render:"
+msgstr "Shortcode để hiển thị Ajax:"
+
+#: settings.php:1568
+msgid "If you use template inside other dynamic ajax blocks"
+msgstr "Nếu bạn sử dụng mẫu bên trong các khối ajax động khác"
+
+#: settings.php:1554
+msgid "Usage"
+msgstr "Sử dụng"
+
+#: settings.php:1553
+msgid "Block title"
+msgstr "Tiêu đề khối"
+
+#: settings.php:1364 templates/admin/addon-page.php:547
+#: templates/admin/addon-page.php:572 build/gspbLibrary.js:1
+msgid "Documentation"
+msgstr "Tài liệu"
+
+#: settings.php:1364
+msgid "Attention! Local font is global option and it can reduce performance in some cases. Do not use more than 2 global fonts. Please, check"
+msgstr "Lưu ý! Phông chữ cục bộ là tùy chọn toàn cầu và có thể làm giảm hiệu suất trong một số trường hợp. Không sử dụng quá 2 phông chữ toàn cầu. Vui lòng kiểm tra"
+
+#: settings.php:1344 templates/admin/settings_general_form.php:39
+#: build/gspbSiteEditor.js:1 build/gspbStylebook.js:1
+msgid "Save"
+msgstr "Lưu"
+
+#: settings.php:1291
+msgid "Custom code before closed Body"
+msgstr "Mã tùy chỉnh trước khi đóng thẻ Body"
+
+#: settings.php:1285
+msgid "Custom code in head section"
+msgstr "Mã tùy chỉnh trong phần đầu trang"
+
+#: settings.php:1268
+msgid "Footer and Head Hooks"
+msgstr "Hook chân trang và đầu trang"
+
+#: settings.php:1039
+msgid "Open AI API Key"
+msgstr "Open AI API Key"
+
+#: settings.php:1016 settings.php:1043 settings.php:1052 settings.php:1061
+#: settings.php:1070
+msgid "Get an API Key"
+msgstr "Lấy API Key"
+
+#: settings.php:1012 templates/admin/import-page.php:538
+msgid "Google API Key"
+msgstr "Google API Key"
+
+#: settings.php:921
+msgid "Specify URLs of pages (one per line)."
+msgstr "Chỉ định URL của các trang (một dòng mỗi URL)."
+
+#: settings.php:917
+msgid "Page Urls (one per line)."
+msgstr "URL trang (một dòng mỗi URL)."
+
+#: settings.php:911
+msgid "Enable on whole site except selected pages"
+msgstr "Bật trên toàn bộ trang web trừ các trang đã chọn"
+
+#: settings.php:910
+msgid "Enable only on selected pages"
+msgstr "Chỉ bật trên các trang đã chọn"
+
+#: settings.php:909
+msgid "Enable on whole site"
+msgstr "Bật trên toàn bộ trang web"
+
+#: settings.php:906
+msgid "Javascript delay options"
+msgstr "Tùy chọn trì hoãn Javascript"
+
+#: settings.php:902
+msgid "Enable script delay for Greenshift's scripts"
+msgstr "Bật trì hoãn kịch bản cho kịch bản của Greenshift"
+
+#: settings.php:892
+msgid "Attention! This is experimental feature"
+msgstr "Lưu ý! Đây là tính năng thử nghiệm"
+
+#: settings.php:884
+msgid "Javascript Files Delay"
+msgstr "Trì hoãn tệp Javascript"
+
+#: settings.php:841
+msgid "Enable Landscape point"
+msgstr "Bật điểm Cảnh quan"
+
+#: settings.php:833
+msgid "Default Row Content Width"
+msgstr "Chiều rộng nội dung hàng mặc định"
+
+#: settings.php:825
+msgid "Desktop"
+msgstr "Máy tính để bàn"
+
+#: settings.php:817
+msgid "Tablet"
+msgstr "Máy tính bảng"
+
+#: settings.php:809
+msgid "Mobile"
+msgstr "Điện thoại di động"
+
+#: settings.php:759
+msgid "Close Local style option in Element block by default"
+msgstr "Tắt tùy chọn kiểu cục bộ trong khối phần tử theo mặc định"
+
+#: settings.php:749
+msgid "Default unit for values"
+msgstr "Đơn vị mặc định cho các giá trị"
+
+#: settings.php:726
+msgid "Dark Accent UI for block panels"
+msgstr "Giao diện UI màu tối cho các bảng điều khiển khối"
+
+#: settings.php:720
+msgid "Disable default Column padding in Row block"
+msgstr "Tắt lề trong mặc định giữa các cột trong khối hàng"
+
+#: settings.php:714
+msgid "Disable core Headings anchor generation"
+msgstr "Tắt tạo neo tiêu đề chính"
+
+#: settings.php:708
+msgid "Support for Core Framework Utility classes"
+msgstr "Hỗ trợ cho các lớp tiện ích của khung chính"
+
+#: settings.php:702 templates/admin/addon-page.php:377
+#: templates/admin/addon-page.php:409 templates/admin/addon-page.php:441
+#: templates/admin/addon-page.php:475 templates/admin/addon-page.php:509
+#: templates/admin/settings_general_font_item.php:52
+msgid "Download"
+msgstr "Tải xuống"
+
+#: settings.php:701
+msgid "Install Smart Code AI free plugin to enable code editor in block HTML/CSS panels"
+msgstr "Cài đặt plugin Smart Code AI miễn phí để kích hoạt trình chỉnh sửa mã trong bảng điều khiển HTML/CSS"
+
+#: settings.php:620 settings.php:766 settings.php:927 settings.php:1128
+msgid "Save settings"
+msgstr "Lưu cài đặt"
+
+#: settings.php:607
+msgid "Enable detection of dark mode before site loading"
+msgstr "Bật phát hiện chế độ tối trước khi tải trang web"
+
+#: settings.php:602
+msgid "Inline in block"
+msgstr "Nội tuyến trong khối"
+
+#: settings.php:601
+msgid "Inline in Head"
+msgstr "Nội tuyến trong Head"
+
+#: settings.php:598
+msgid "Css location"
+msgstr "Vị trí CSS"
+
+#: settings.php:592
+msgid "Use Inline in block only if you have some issues with not updating styles of blocks or cache. Once saved as inline in block, styles can be overwritten only when you update post with blocks"
+msgstr "Chỉ sử dụng Inline trong khối nếu bạn gặp sự cố với việc không cập nhật kiểu của khối hoặc bộ nhớ cache. Sau khi lưu dưới dạng Inline trong khối, kiểu có thể bị ghi đè chỉ khi bạn cập nhật bài viết có khối"
+
+#: settings.php:546 settings.php:631 settings.php:860 settings.php:939
+#: settings.php:1147
+msgid "Sorry, your nonce did not verify."
+msgstr "Xin lỗi, nonce của bạn không được xác minh."
+
+#: settings.php:533
+msgid "Interface"
+msgstr "Giao diện"
+
+#: settings.php:532
+msgid "Header/Footer code"
+msgstr "Mã Header/Footer"
+
+#: settings.php:531
+msgid "Script Options"
+msgstr "Tùy chọn Script"
+
+#: settings.php:530
+msgid "CSS Options"
+msgstr "Tùy chọn CSS"
+
+#: settings.php:529 templates/admin/import-page.php:514
+msgid "Breakpoints"
+msgstr "Điểm ngắt"
+
+#: settings.php:426
+msgid "Create Stylebook"
+msgstr "Tạo Stylebook"
+
+#: settings.php:307 settings.php:308 settings.php:316 settings.php:317
+#: templates/admin/navleft.php:70 build/gspbStylebook.js:1
+msgid "Stylebook"
+msgstr "Stylebook"
+
+#: settings.php:284 settings.php:285
+msgid "Demo Import"
+msgstr "Nhập Demo"
+
+#: settings.php:276 settings.php:277 templates/admin/import-page.php:22
+#: templates/admin/navleft.php:87
+msgid "Import/Export"
+msgstr "Nhập/Xuất"
+
+#: settings.php:268 settings.php:269 templates/admin/contact-page.php:17
+msgid "Contact Us"
+msgstr "Liên hệ với chúng tôi"
+
+#: settings.php:259 settings.php:260
+msgid "Upgrade"
+msgstr "Nâng cấp"
+
+#: settings.php:250 settings.php:251 templates/admin/navleft.php:80
+msgid "Addons"
+msgstr "Tiện ích mở rộng"
+
+#: settings.php:241 settings.php:242 settings.php:524
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: settings.php:218 settings.php:219 templates/admin/import-page.php:28
+msgid "Reusable Templates"
+msgstr "Mẫu khối"
+
+#: init.php:2912 settings.php:1482
+msgid "JSON is not saved due the permission!!!"
+msgstr "JSON không được lưu do quyền hạn!!!"
+
+#: init.php:2599
+msgid "Invalid application password."
+msgstr "Mật khẩu ứng dụng không hợp lệ."
+
+#: init.php:867
+msgid "Reusable Component"
+msgstr "Thành phần có thể sử dụng lại"
+
+#: init.php:847 settings.php:421
+msgid "GreenShift Stylebook"
+msgstr "GreenShift Stylebook"
+
+#: includes/importer.php:876
+msgid "Invalid file type"
+msgstr "Loại tệp không hợp lệ"
+
+#: includes/importer.php:852
+msgid "The uploaded file could not be moved"
+msgstr "Không thể di chuyển tệp đã tải lên"
+
+#: includes/importer.php:837
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Xin lỗi, loại tệp này không được phép vì lý do bảo mật."
+
+#. translators: limit file size
+#: includes/importer.php:822
+msgid "Remote file is too large, limit is %s"
+msgstr "Tệp từ xa quá lớn, giới hạn là %s"
+
+#: includes/importer.php:815
+msgid "Downloaded file has incorrect size"
+msgstr "Tệp đã tải xuống có kích thước không chính xác"
+
+#: includes/importer.php:810
+msgid "Zero size file downloaded"
+msgstr "Tải xuống tệp có kích thước bằng không"
+
+#: includes/importer.php:803
+msgid "Remote server did not respond"
+msgstr "Máy chủ từ xa không phản hồi"
+
+#. translators: 1: The HTTP error message. 2: The HTTP error code.
+#: includes/importer.php:791
+msgid "Remote server returned the following unexpected result: %1$s (%2$s)"
+msgstr "Máy chủ từ xa trả về kết quả không mong đợi sau: %1$s (%2$s)"
+
+#. translators: 1: The WordPress error message. 2: The WordPress error code.
+#: includes/importer.php:775
+msgid "Request failed due to an error: %1$s (%2$s)"
+msgstr "Yêu cầu thất bại do lỗi: %1$s (%2$s)"
+
+#: includes/importer.php:753
+msgid "Could not create temporary file."
+msgstr "Không thể tạo tệp tạm thời."
+
+#: includes/importer.php:594
+msgid "Updated header menu"
+msgstr "Cập nhật menu tiêu đề"
+
+#: includes/importer.php:583
+msgid "Updated Category Images"
+msgstr "Cập nhật Hình ảnh Danh mục"
+
+#: includes/importer.php:571
+msgid "Updated Featured Images"
+msgstr "Cập nhật Hình ảnh Nổi bật"
+
+#: includes/importer.php:360
+msgid "products"
+msgstr "sản phẩm"
+
+#: includes/importer.php:358
+msgid "pages"
+msgstr "trang"
+
+#: includes/importer.php:356
+msgid "posts"
+msgstr "bài viết"
+
+#: includes/importer.php:354
+msgid "reusable templates"
+msgstr "mẫu có thể tái sử dụng"
+
+#: includes/importer.php:352
+msgid "custom styles"
+msgstr "kiểu tùy chỉnh"
+
+#: includes/importer.php:350
+msgid "template part"
+msgstr "phần mẫu"
+
+#: includes/importer.php:348
+msgid "template"
+msgstr "mẫu"
+
+#. translators: code of file
+#: includes/importer.php:248
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr "Không thể tìm thấy tệp xuất tại <code>%s</code>. Có khả năng điều này là do vấn đề về phân quyền."
+
+#: includes/importer.php:242 includes/importer.php:246
+#: includes/importer.php:259
+msgid "Sorry, there has been an error."
+msgstr "Xin lỗi, đã xảy ra lỗi."
+
+#: includes/importer.php:234
+msgid "Imported"
+msgstr "Nhập"
+
+#: includes/importer.php:233
+msgid "Updated"
+msgstr "Cập nhật"
+
+#: includes/helper.php:952
+msgid "Data attributes"
+msgstr "Thuộc tính dữ liệu"
+
+#: includes/helper.php:878
+msgid "Background Presets"
+msgstr "Tiền cài đặt Nền"
+
+#: includes/helper.php:857
+msgid "Border Presets"
+msgstr "Tiền cài đặt Viền"
+
+#: includes/helper.php:792
+msgid "Shadow Presets"
+msgstr "Tiền cài đặt Bóng"
+
+#: includes/helper.php:727
+msgid "Spacing Presets"
+msgstr "Tiền cài đặt Khoảng cách"
+
+#: includes/helper.php:698
+msgid "Interaction Presets"
+msgstr "Tiền cài đặt Tương tác"
+
+#: edd/EddLicensePage.php:749
+msgid "Activated succesfull."
+msgstr "Kích hoạt thành công."
+
+#: edd/EddLicensePage.php:446
+msgid "Your license key has reached its activation limit."
+msgstr "Khóa cấp phép của bạn đã đạt giới hạn kích hoạt."
+
+#. translators: the plugin name
+#: edd/EddLicensePage.php:442
+msgid "This appears to be an invalid license key for %s."
+msgstr "Điều này dường như là một khóa cấp phép không hợp lệ cho %s."
+
+#: edd/EddLicensePage.php:437
+msgid "Your license is not active for this URL."
+msgstr "Giấy phép của bạn không hoạt động cho URL này."
+
+#: edd/EddLicensePage.php:432
+msgid "Invalid license."
+msgstr "Giấy phép không hợp lệ."
+
+#: edd/EddLicensePage.php:428
+msgid "Your license key has been disabled."
+msgstr "Khóa cấp phép của bạn đã bị vô hiệu hóa."
+
+#. translators: the license key expiration date
+#: edd/EddLicensePage.php:421
+msgid "Your license key expired on %s."
+msgstr "Khóa cấp phép của bạn đã hết hạn vào %s."
+
+#: edd/EddLicensePage.php:408 edd/EddLicensePage.php:450
+#: edd/EddLicensePage.php:575
+msgid "An error occurred, please try again."
+msgstr "Đã xảy ra lỗi, vui lòng thử lại."
+
+#: edd/EddLicensePage.php:306
+msgid "Expires:"
+msgstr "Hết hạn:"
+
+#: edd/EddLicensePage.php:301
+msgid "This license is expired"
+msgstr "Giấy phép này đã hết hạn"
+
+#: edd/EddLicensePage.php:291
+msgid "License:"
+msgstr "Giấy phép:"
+
+#: edd/EddLicensePage.php:283
+msgid "Activate License"
+msgstr "Kích hoạt Giấy phép"
+
+#: edd/EddLicensePage.php:278
+msgid "Deactivate License"
+msgstr "Vô hiệu hóa Giấy phép"
+
+#: edd/EddLicensePage.php:263
+msgid "Enter your license key."
+msgstr "Nhập mã bản quyền của bạn."
+
+#: edd/EddLicensePage.php:246
+msgid "This is where you enter your license key. If you have All in one license, you can activate it without activation separate addons"
+msgstr "Đây là nơi bạn nhập khóa cấp phép của bạn. Nếu bạn có giấy phép All in one, bạn có thể kích hoạt nó mà không cần kích hoạt các tiện ích bổ sung riêng biệt"
+
+#: edd/EddLicensePage.php:222
+msgid "Plugins License Options"
+msgstr "Tùy chọn Giấy phép Tiện ích"
+
+#: edd/EddLicensePage.php:179 edd/EddLicensePage.php:180
+#: edd/EddLicensePage.php:195
+msgid "Manage Licenses"
+msgstr "Quản lý Giấy phép"
+
+#: blockrender/social-share/block.php:148
+msgid "Check out:"
+msgstr "Kiểm tra:"
+
+#. Author of the plugin
+#: plugin.php
+msgid "Wpsoul"
+msgstr "Wpsoul"
+
+#. Description of the plugin
+#: plugin.php
+msgid "Animation and page builder for Gutenberg with highest web vitals"
+msgstr "Hiệu ứng động và trình tạo trang cho Gutenberg với điểm số web vitals cao nhất"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: plugin.php
+msgid "https://greenshiftwp.com"
+msgstr "https://greenshiftwp.com"
+
+#. Plugin Name of the plugin
+#: plugin.php
+msgid "GreenShift - Animation and Page Builder Blocks"
+msgstr "GreenShift - Animation and Page Builder Blocks"
