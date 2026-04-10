@@ -17,5 +17,6 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           # Chỉ đẩy thư mục wp-content để tránh lỗi hệ thống và nhanh hơn
-          local-dir: ./wp-content/ 
+          local-dir: ./wp-content/
           server-dir: /htdocs/wp-content/
+          delete: false
